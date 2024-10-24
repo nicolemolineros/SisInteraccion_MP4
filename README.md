@@ -15,8 +15,12 @@ To achieve this, I used **MobMuPlat** to connect OSC controls with Pure Data, cr
 - A video demonstration showing the functionality of the system.
 
 ## Youtube Link
--
+- https://youtu.be/A_78eOr6-hs
+
 ## Justification 
+
+I decided to use **MobMuPlat** to bridge the OSC interactions with Pure Data because it provides an intuitive interface for managing OSC messages and creating customized controls for real-time sound manipulation. This setup allows for real-time feedback and control, making it ideal for a DJ-style system where interaction speed and responsiveness are key.
+Each widget was programmed to affect different parameters of the audio, including pitch, tempo, and filter, ensuring that users can create complex and dynamic soundscapes with minimal effort. The system was designed with simplicity in mind, so even those unfamiliar with Pure Data can easily interact with the interface and start creating music right away.
 
 
 
